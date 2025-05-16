@@ -1,3 +1,3 @@
 # References
+my reference will conflict with the main branch.
 
-* octocat 1 😈
